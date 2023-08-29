@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+}
+
+#upload-container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+#file {
+  width: 100%;
+}
+
+#submit {
+  background-color: #007bff;
+  color: white;
+  padding: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#preview {
+  margin-top: 20px;
+  width: 500px;
+}
+
+#preview img {
+  width: 100%;
+}
